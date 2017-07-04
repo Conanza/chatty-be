@@ -12,6 +12,7 @@ gem 'ruby-kafka', '0.3.17'
 gem 'pg', '~> 0.18'
 gem 'puma', '~> 3.0'
 gem 'pry-rails'
+gem 'websocket-rails'
 
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
